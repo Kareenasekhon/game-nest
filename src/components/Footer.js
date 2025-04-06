@@ -12,7 +12,7 @@ const Footer = () => {
         </div>
         <div className="footer-section">
           <h4>Contact Us</h4>
-          <p>Email: support@gamenest.com</p>
+          <p>Email: 12kareenasekhon@gmail.com</p>
           <p>Phone: 9786543210</p>
           <p>Hours: 24/7 Support</p>
         </div>
